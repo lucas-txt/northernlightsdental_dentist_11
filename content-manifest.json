@@ -1,0 +1,287 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Northern Lights Dental — Professional Dental Care for the Entire Family",
+      "headings": [
+        "Welcome to Northern Lights Dental",
+        "We love to see you smile!",
+        "Services We Provide",
+        "What We Offer",
+        "Kid Friendly – Dentistry for the Whole Family",
+        "About Northern Lights Dental",
+        "Meet the Doctors",
+        "Recent News",
+        "Make an Appointment"
+      ],
+      "sections": [
+        "hero",
+        "welcome",
+        "services",
+        "what-we-offer",
+        "kid-friendly",
+        "about",
+        "doctors",
+        "news",
+        "appointment",
+        "footer"
+      ]
+    },
+    {
+      "path": "/services",
+      "title": "Services — Northern Lights Dental",
+      "headings": [
+        "Services We Provide",
+        "What We Offer",
+        "Kid Friendly – Dentistry for the Whole Family",
+        "Questions, answered"
+      ],
+      "sections": [
+        "hero",
+        "service-bento",
+        "kid-friendly",
+        "faq",
+        "cta"
+      ]
+    },
+    {
+      "path": "/about",
+      "title": "About — Northern Lights Dental",
+      "headings": [
+        "About Northern Lights Dental",
+        "Care built on four promises",
+        "Inside the practice",
+        "Meet the Doctors",
+        "Kid Friendly – Dentistry for the Whole Family"
+      ],
+      "sections": [
+        "hero",
+        "values",
+        "gallery",
+        "doctors",
+        "kid-friendly",
+        "cta"
+      ]
+    },
+    {
+      "path": "/doctors",
+      "title": "Meet the Doctors — Northern Lights Dental",
+      "headings": [
+        "Meet the Doctors",
+        "Dr. Chris Schmaltz",
+        "Dr. Neha Patel",
+        "Dr. Courtney Gieseke"
+      ],
+      "sections": [
+        "hero",
+        "team-grid",
+        "cta"
+      ]
+    },
+    {
+      "path": "/doctors/dr-chris-schmaltz",
+      "title": "Dr. Chris Schmaltz — Northern Lights Dental",
+      "headings": [
+        "Dr. Chris Schmaltz",
+        "Dentist, Northern Lights Dental"
+      ],
+      "sections": [
+        "profile",
+        "biography",
+        "cta"
+      ]
+    },
+    {
+      "path": "/doctors/dr-neha-patel",
+      "title": "Dr. Neha Patel — Northern Lights Dental",
+      "headings": [
+        "Dr. Neha Patel",
+        "Dentist, Northern Lights Dental"
+      ],
+      "sections": [
+        "profile",
+        "biography",
+        "cta"
+      ]
+    },
+    {
+      "path": "/doctors/dr-courtney-gieseke",
+      "title": "Dr. Courtney Gieseke — Northern Lights Dental",
+      "headings": [
+        "Dr. Courtney Gieseke",
+        "Dentist, Northern Lights Dental"
+      ],
+      "sections": [
+        "profile",
+        "biography",
+        "cta"
+      ]
+    },
+    {
+      "path": "/new-patients",
+      "title": "New Patients — Northern Lights Dental",
+      "headings": [
+        "New Patients",
+        "Accepting New Patients!",
+        "Office Hours",
+        "Northern Lights Dental",
+        "Introducing NLD Star Discount Plan!"
+      ],
+      "sections": [
+        "hero",
+        "quick-actions",
+        "hours",
+        "news-feature",
+        "cta"
+      ]
+    },
+    {
+      "path": "/news",
+      "title": "Recent News — Northern Lights Dental",
+      "headings": [
+        "Recent News",
+        "Your Child's Dental Health- The Early Years by a dentist and a mental health professional",
+        "Introducing NLD Star Discount Plan!",
+        "Some of our favorite cases..."
+      ],
+      "sections": [
+        "hero",
+        "news-grid",
+        "cta"
+      ]
+    },
+    {
+      "path": "/contact",
+      "title": "Make an Appointment — Northern Lights Dental",
+      "headings": [
+        "Make an Appointment",
+        "Northern Lights Dental",
+        "Office Hours"
+      ],
+      "sections": [
+        "hero",
+        "contact-form",
+        "location",
+        "cta"
+      ]
+    }
+  ],
+  "facts": {
+    "phone": [
+      "701-551-2000"
+    ],
+    "email": [
+      "info@nldentalfargo.com"
+    ],
+    "address": [
+      "4150 19th Ave S Suite 301 Fargo, ND 58103"
+    ],
+    "hours": [
+      "M-Th 8:00am-5:00pm Friday 8:00am-noon"
+    ],
+    "names": [
+      "Dr. Chris Schmaltz",
+      "Dr. Neha Patel",
+      "Dr. Courtney Gieseke"
+    ],
+    "tagline": [
+      "Professional Dental Care for the Entire Family"
+    ],
+    "audience": [
+      "ages 1 to 101+"
+    ],
+    "city": [
+      "Fargo, ND 58103"
+    ],
+    "services": [
+      "General exams and cleanings",
+      "Sealants and fillings",
+      "Denture fabrication and fittings",
+      "Same-day crowns, bridges, and veneers",
+      "Implants and root canal treatment",
+      "Gum disease treatment",
+      "Professional tooth whitening"
+    ]
+  },
+  "navigation": {
+    "header": [
+      "/",
+      "/services",
+      "/about",
+      "/doctors",
+      "/new-patients",
+      "/news",
+      "/contact"
+    ],
+    "footer": [
+      "/services",
+      "/about",
+      "/doctors",
+      "/new-patients",
+      "/news",
+      "/contact"
+    ]
+  },
+  "assets": [
+    {
+      "src": "/assets/images/about-team.jpg",
+      "type": "image",
+      "bytes": 169020
+    },
+    {
+      "src": "/assets/images/dr-chris.jpg",
+      "type": "image",
+      "bytes": 133316
+    },
+    {
+      "src": "/assets/images/dr-courtney.jpg",
+      "type": "image",
+      "bytes": 78045
+    },
+    {
+      "src": "/assets/images/dr-neha.jpg",
+      "type": "image",
+      "bytes": 119405
+    },
+    {
+      "src": "/assets/images/hero-raceway.jpg",
+      "type": "image",
+      "bytes": 349430
+    },
+    {
+      "src": "/assets/images/logo-emblem.jpg",
+      "type": "image",
+      "bytes": 41409
+    },
+    {
+      "src": "/assets/images/news-child-health.jpg",
+      "type": "image",
+      "bytes": 197949
+    },
+    {
+      "src": "/assets/images/news-favorite-cases.jpg",
+      "type": "image",
+      "bytes": 72933
+    },
+    {
+      "src": "/assets/images/news-star-plan.jpg",
+      "type": "image",
+      "bytes": 263777
+    },
+    {
+      "src": "/assets/images/office-7657.jpg",
+      "type": "image",
+      "bytes": 218590
+    },
+    {
+      "src": "/assets/images/team-5753.jpg",
+      "type": "image",
+      "bytes": 226088
+    },
+    {
+      "src": "/assets/images/young-patient.jpg",
+      "type": "image",
+      "bytes": 177532
+    }
+  ]
+}
